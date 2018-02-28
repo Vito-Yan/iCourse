@@ -1,0 +1,28 @@
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.BookM.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ReaderTypeM.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Menu.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ReaderM.resources
+D:\Microsoft Visual Studio 10.0\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.BorrowAndReturn.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.BorrowAndReturn.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ReaderM.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.BookM.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.ReaderTypeM.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Menu.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Login.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.exe
+D:\长大在线\Programing\others\c#\图书管理系统\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\WindowsFormsApplication2.pdb
